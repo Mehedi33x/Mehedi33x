@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Mehedi 👋</h1>
+<h1 align="center">Hi, I'm Mehedi 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🚀 Building Scalable Apps | 🌍 Dhaka, Bangladesh
+  💻 Full Stack Developer • 🚀 SaaS & Scalable Systems • 🌍 Bangladesh
 </p>
 
 <p align="center">
-  <a href="https://mehedi33x.netlify.app/">🌐 Website</a> •
+  <a href="https://mehedi33x.netlify.app/">🌐 Portfolio</a> •
   <a href="https://linkedin.com/">LinkedIn</a> •
   <a href="https://instagram.com/">Instagram</a> •
   <a href="https://wa.me/">WhatsApp</a>
@@ -15,51 +15,53 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** focused on building scalable web, mobile, and SaaS applications.  
-I love turning complex problems into simple, elegant, and efficient solutions.
+I'm a results-driven **Full Stack Developer** focused on building high-performance, scalable, and user-friendly applications.
 
-- ⚡ Building modern web & SaaS applications  
-- 🤖 Exploring AI, automation & new technologies  
-- 🧠 Focused on clean code & performance  
-- 🌍 Working with global clients  
-- 🧪 Always learning & experimenting  
+I specialize in turning complex ideas into clean, efficient, and production-ready solutions — whether it's SaaS platforms, business tools, or modern web apps.
 
----
-
-## 🏢 About SoftCrafty
-
-At **SoftCrafty**, we build:
-
-- 🎨 Branding & UI/UX Design  
-- 📱 Custom Web & Mobile Applications  
-- ☁️ SaaS Platforms & APIs  
-- ⚙️ DevOps & Cloud Solutions  
-- 🛍️ Templates for ThemeForest & Webflow  
-
-🌐 Website: https://softcrafty.com  
+- ⚡ Building scalable web & SaaS applications  
+- 🧠 Writing clean, maintainable, high-performance code  
+- 🤖 Exploring AI, automation & modern technologies  
+- 🌍 Working with international clients  
+- 🧪 Constantly learning and improving  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏢 About My Work
 
-### 🎨 Frontend & UI
-`React.js` `Next.js` `Vue.js` `Nuxt.js` `TailwindCSS` `Bootstrap` `jQuery`
+I help businesses and startups build:
 
-### ⚙️ Backend & Database
-`Node.js` `Express.js` `Laravel` `PHP` `CodeIgniter`  
+- 🎨 Modern UI/UX & branding experiences  
+- 📱 Custom web & mobile applications  
+- ☁️ Scalable SaaS platforms & APIs  
+- ⚙️ Backend systems & cloud infrastructure  
+- 🚀 Performance-optimized solutions  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+`React.js` `Next.js` `Vue.js` `Nuxt.js`  
+`Tailwind CSS` `Bootstrap` `jQuery`
+
+### ⚙️ Backend
+`Node.js` `Express.js` `Laravel` `PHP` `CodeIgniter`
+
+### 🗄️ Database
 `MySQL` `MongoDB` `PostgreSQL`
 
-### 📱 Mobile Development
+### 📱 Mobile
 `React Native` `Flutter`
 
 ### ☁️ Cloud & DevOps
-`AWS` `DigitalOcean` `Azure` `Google Cloud`  
-`Docker` `Nginx` `Vercel` `Netlify`
+`AWS` `DigitalOcean` `Vercel` `Netlify`  
+`Docker` `Nginx`
 
 ### 🤖 AI & Automation
-`Python` `TensorFlow` `OpenAI` `LangChain` `Firebase`
+`Python` `OpenAI` `TensorFlow` `LangChain` `Firebase`
 
-### 🎨 Design Tools
+### 🎨 Design
 `Figma` `Photoshop` `Illustrator` `After Effects` `Canva`
 
 ---
@@ -67,31 +69,36 @@ At **SoftCrafty**, we build:
 ## 🚀 Featured Projects
 
 ### 🔹 Poker Académie
-Largest online poker school in France with 100K+ users.  
+A large-scale online poker learning platform with 100K+ users.
+
 **Tech:** Laravel, Vue.js, Nuxt.js, MySQL  
 
 ---
 
 ### 🔹 Just Checking In (JCI)
-Mental health & wellness app with reminders and alerts.  
+A mental health & wellness app with reminders and smart alerts.
+
 **Tech:** React Native, Node.js, MongoDB, Firebase  
 
 ---
 
 ### 🔹 AnySoft
-Cloud-based SaaS platform for printing & document management.  
+Cloud-based SaaS platform for printing & document management.
+
 **Tech:** Next.js, Node.js, Firebase  
 
 ---
 
 ### 🔹 Prophytes
-Business directory & networking platform.  
+A business directory and networking platform.
+
 **Tech:** Next.js, Node.js, MongoDB  
 
 ---
 
 ### 🔹 Al-Daleel
-Arabic literature bibliography with advanced search.  
+Arabic literature bibliography with advanced search system.
+
 **Tech:** Laravel, MySQL  
 
 ---
@@ -99,25 +106,37 @@ Arabic literature bibliography with advanced search.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Work Together
+
+I'm open to:
+
+- 💼 Freelance projects  
+- 🚀 Startup collaborations  
+- 🌍 Remote opportunities  
+
+If you have an idea, project, or opportunity — let's talk!
+
+---
+
+## 📫 Contact
 
 - 🌐 Portfolio: https://mehedi33x.netlify.app/  
 - 📧 Email: mahmudul.coder@gmail.com  
 
 ---
 
-## 💬 Fun Fact
+## 💡 Fun Fact
 
-I love building things that make life easier, experimenting with new tech, and turning ideas into real products.
+I enjoy turning ideas into real-world products and building systems that actually solve problems — not just look good.
 
 ---
 
 <p align="center">
-  ⭐️ Thanks for visiting my profile!
+  ⭐️ Feel free to explore my repositories and drop a star if you like my work!
 </p>
