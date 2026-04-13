@@ -23,24 +23,6 @@ My journey started with curiosity about how things work, and it has grown into s
 - ☕ Coffee-powered coding  
 
 ---
-
-## 🧑‍💻 Developer Snapshot
-
-```js
-class Developer {
-  constructor() {
-    this.name = 'Mehedi Hassan';
-    this.role = 'Full Stack Developer';
-    this.coffee = true;
-  }
-
-  code() {
-    return "Clean & Scalable";
-  }
-}
-```
-
-
 ## 💼 Experience
 
 ### 🏢 Junior Laravel Developer — SoftCrafty  
@@ -81,19 +63,6 @@ class Developer {
 
 ### 🔧 Tools  
 `Git` `GitHub`  
-
----
-
-## 📊 Skill Proficiency
-
-- PHP — 75%  
-- Laravel — 75%  
-- JavaScript — 60%  
-- Vue.js — 60%  
-- React — 40%  
-- REST API — 85%  
-- Git — 80%  
-- GitHub — 85%  
 
 ---
 
