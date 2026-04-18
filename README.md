@@ -29,35 +29,6 @@ My journey started with curiosity about how things work, and it has grown into a
 
 ---
 
-## 💼 Experience
-
-### 🏢 Junior Laravel Developer — SoftCrafty  
-📅 June 2025 – January 2026  
-
-- Built and maintained scalable web applications  
-- Worked with **Laravel, Vue.js, Bootstrap, MySQL**  
-- Implemented new features based on client requirements  
-- Optimized database queries and application performance  
-- Collaborated with teams and clients in an agile workflow  
-
-**Tech Stack:**  
-`Laravel` • `Vue JS` • `React JS` • `Bootstrap` • `MySQL`
-
----
-
-### 🏢 Junior Laravel Developer — Nogor Solutions Limited  
-📅 February 2024 – May 2025  
-
-- Developed and maintained web applications  
-- Implemented new features and fixed bugs  
-- Contributed to ERP systems and custom business solutions  
-- Participated in code reviews and team collaboration  
-
-**Tech Stack:**  
-`Laravel` • `Vue.js` • `MySQL` • `Bootstrap`
-
----
-
 ## 🛠️ Skills
 
 ### 🎨 Frontend
